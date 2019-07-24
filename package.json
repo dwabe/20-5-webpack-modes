@@ -1,0 +1,28 @@
+{
+  "name": "20-5-webpack-modes",
+  "version": "1.0.0",
+  "description": "20-5-webpack-modes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwabe/20-5-webpack-modes.git"
+  },
+  "keywords": [
+    "webpack",
+    "modes"
+  ],
+  "author": "bebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwabe/20-5-webpack-modes/issues"
+  },
+  "homepage": "https://github.com/dwabe/20-5-webpack-modes#readme",
+  "devDependencies": {
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
